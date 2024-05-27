@@ -1,0 +1,11 @@
+{
+  "name": "express_postgres_sequelizeorm",
+  "version": "1.0.0",
+  "description": "Buid Scalable REST APIs in Node.js with Express, Postgers & SequelizeORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mukesh",
+  "license": "ISC"
+}
